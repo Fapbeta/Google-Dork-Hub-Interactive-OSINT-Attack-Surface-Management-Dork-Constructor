@@ -19,6 +19,15 @@
 - **Мульти-экспорт:** автоматическое сохранение истории в `TXT`, `JSON` и `Markdown` (Obsidian Vault ready).
 - **Анти-шум фильтры:** очистка выдачи от GitHub, блогов, новостей и форумов в один клик.
 
+
+
+![_20261026_123752.JPG](https://github.com/user-attachments/assets/5471d1f4-fc6a-482d-bf94-7f881d1ebd60)
+
+![_20261026_123810.JPG](https://github.com/user-attachments/assets/5cf4f88d-2697-43d7-be3b-99a061949282)
+
+
+
+
 ## 📦 Установка (Termux / Linux)
 
 ```bash
