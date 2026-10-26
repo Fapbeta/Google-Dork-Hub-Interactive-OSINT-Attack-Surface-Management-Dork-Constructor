@@ -17,9 +17,11 @@
 
 ```bash
 # 1. Клонирование репозитория
-git clone [https://github.com/Fapbeta/Google-Dork-HUB.git](https://github.com/Fapbeta/Google-Dork-HUB.git)
-cd Google-Dork-HUB
-
+git clone https://github.com/Fapbeta/Google-Dork-Hub-Interactive-OSINT-Attack-Surface-Management-Dork-Constructor.git  
+                                                    
+cd
+Google-Dork-Hub-Interactive-OSINT-Attack-Surface-Management-Dork-Constructor 
+                            
 # 2. Выдача прав на выполнение
 chmod +x dork_hub.py
 
