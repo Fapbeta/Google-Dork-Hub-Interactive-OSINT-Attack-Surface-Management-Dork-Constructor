@@ -1,0 +1,8 @@
+# Игнорируем логи и историю Dork HUB
+dorks.txt
+dork_hub_vault.md
+dork_hub_history.json
+
+# Игнорируем кэш Python
+__pycache__/
+*.py[cod]
