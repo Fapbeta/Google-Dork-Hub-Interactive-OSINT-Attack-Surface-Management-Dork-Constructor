@@ -8,9 +8,7 @@
 **Google Dork HUB** — это интерактивный консольный конструктор для поисковой разведки и аудита периметра. Скрипт адаптирован под ограничения поисковых систем (октябрь 2026 года) и позволяет генерировать точные запросы без потери операторов.
 
 
-
-![_20261026_123715.JPG](https://github.com/user-attachments/assets/6b70cbde-e720-4945-a635-b5559797abef)
-
+![_20261026_123810.JPG](https://github.com/user-attachments/assets/5cf4f88d-2697-43d7-be3b-99a061949282)
 
 
 ## 🚀 Особенности
@@ -23,7 +21,6 @@
 
 ![_20261026_123752.JPG](https://github.com/user-attachments/assets/5471d1f4-fc6a-482d-bf94-7f881d1ebd60)
 
-![_20261026_123810.JPG](https://github.com/user-attachments/assets/5cf4f88d-2697-43d7-be3b-99a061949282)
 
 
 
